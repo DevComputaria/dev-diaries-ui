@@ -1,0 +1,3 @@
+feeds:
+  - name: dev-diaries
+    url: https://github.com/DevComputaria/dev-diaries/commits/main.atom
